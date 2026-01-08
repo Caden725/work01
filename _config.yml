@@ -11,5 +11,3 @@ collections:
   cpp:
     output: true
     permalink: /cpp/:name
-
-
