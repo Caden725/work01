@@ -8,7 +8,7 @@ collections:
   ai:
     output: true
     permalink: /ai/:name
- cpp:
+  cpp:
     output: true
     permalink: /cpp/:name
 
