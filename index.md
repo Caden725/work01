@@ -59,7 +59,7 @@ title: 📚 程式課程學習中心
         <p>機器學習導論與神經網路實作教學。</p>
         <span class="btn-start">開始學習</span>
     </a>
-    <a href="./cpp/markDownproject" class="card">
+    <a href="./cpp/markdownproject" class="card">
         <h2>📊 cpp</h2>
         <p>二維陣列。</p>
         <span class="btn-start">開始學習</span>
