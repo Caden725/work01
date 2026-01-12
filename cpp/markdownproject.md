@@ -1,3 +1,7 @@
+---
+layout: course_layout
+title: "2"
+---
 
 # 二維陣列
 ## a171: APCS 112.01 2.造字程式
